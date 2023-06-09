@@ -1,0 +1,32 @@
+Planejamento do site da NetFlix
+
+1 - Primeiro passo:
+importar as bibliotecas
+
+2 - Primeiro passo:
+Criar o App
+
+3 - Primeiro passo:
+Criar html para criar o usuário (autenticar o usuário com login e senha)
+    - e-mail
+    - username
+    - filmes já vistos
+    - alterar o perfil
+
+4 - Primeiro passo:
+Criar a biblioteca de filmes
+
+    - thumb
+    - títulos
+    - descrição
+    - categoria
+    - quantidade de views
+    - data de criação
+    - episódios
+        - vídeos
+        - título
+
+
+5 - Primeiro passo:
+Criar uma barra de pesquisa
+
